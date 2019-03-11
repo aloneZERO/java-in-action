@@ -7,6 +7,9 @@
     <groupId>com.leo</groupId>
     <artifactId>java-in-action</artifactId>
     <version>1.0-beta</version>
+    <modules>
+        <module>java8-learning</module>
+    </modules>
     <packaging>pom</packaging>
 
     <properties>
