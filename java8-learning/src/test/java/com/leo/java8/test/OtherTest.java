@@ -33,6 +33,17 @@ public class OtherTest {
         assertSame(x, y);
         assertEquals(a, b);
         assertEquals(x, y);
+
+        // 加法运算时的自动拆箱
+        assert new Integer(129)==new Integer(128)
+                + new Integer(1);
+    }
+
+    @Test
+    public void testSomething() {
+        String s = "hello";
+        char[] chs = {'h', 'e', 'l', 'l', 'o'};
+        assertNotEquals(s, chs);
     }
 
 }
