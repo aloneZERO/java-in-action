@@ -9,6 +9,7 @@
     <version>1.0-beta</version>
     <modules>
         <module>java8-learning</module>
+        <module>juc-learning</module>
     </modules>
     <packaging>pom</packaging>
 
