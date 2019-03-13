@@ -10,6 +10,7 @@
     <modules>
         <module>java8-learning</module>
         <module>juc-learning</module>
+        <module>nio-learning</module>
     </modules>
     <packaging>pom</packaging>
 
