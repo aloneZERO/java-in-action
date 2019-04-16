@@ -11,6 +11,7 @@
         <module>java8-learning</module>
         <module>juc-learning</module>
         <module>nio-learning</module>
+        <module>do-design-pattern</module>
     </modules>
     <packaging>pom</packaging>
 
